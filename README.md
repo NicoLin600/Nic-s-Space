@@ -1,8 +1,7 @@
-Demo: [http://webjeda.com/vyaasa](http://webjeda.com/vyaasa)
+# Kiko
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+[Kiko](http://github.com/gfjaru/Kiko) is a theme for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
 
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
+# License
+
+Released under MIT License.
